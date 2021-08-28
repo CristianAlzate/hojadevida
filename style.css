@@ -1,0 +1,22 @@
+.divInformation {
+      border-left: solid;
+      padding-left: 15px;
+      margin-left: 15px;
+      text-align: justify;
+      text-justify: inter-word;
+    }
+.headerInfo {
+	margin-top: 30px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.containerClass {
+	margin-top: 30px;
+}
+.divInfoPadding {
+	padding-top: 20px;
+}
+.subTitles {
+	margin-bottom: 10px;
+	margin-top: 2px;
+	text-decoration: underline;"
+}
